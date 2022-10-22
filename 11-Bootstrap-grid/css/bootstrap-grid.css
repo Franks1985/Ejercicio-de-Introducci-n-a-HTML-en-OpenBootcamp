@@ -1,0 +1,25 @@
+.row div {
+    margin: 0.25rem;
+}
+
+.col {
+    background-color: cyan;
+}
+
+.col-sm {
+    background-color: red;
+    grid-template-columns: auto auto 2fr;
+}
+.col-md {
+    background-color: yellow;
+}
+.col-lg {
+    background-color: blue;
+}
+.col-xl {
+    background-color: green;
+}
+.col-xxl {
+background-color: pink;
+}
+
