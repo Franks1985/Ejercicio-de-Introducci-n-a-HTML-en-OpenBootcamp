@@ -1,0 +1,10 @@
+.btn {
+    border: none;
+    padding: 0.25rem 0.5rem;
+    color: #fc0000;
+
+    &:hover{
+        background-color: cyan;
+        color: red;
+    }
+}
